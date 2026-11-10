@@ -1,4 +1,4 @@
-:root { --cor: #8250df; }
+:root { --cor: #0969da; }
 * { box-sizing: border-box; }
 body { font-family: system-ui, sans-serif; background: #f6f8fa; margin: 0; padding: 2rem 1rem; color: #1f2328; }
 main { max-width: 420px; margin: 0 auto; background: #fff; padding: 1.5rem; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
