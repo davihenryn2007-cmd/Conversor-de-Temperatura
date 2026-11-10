@@ -1,0 +1,9 @@
+{
+  "name": "conversor-de-temperatura",
+  "version": "1.0.0",
+  "description": "Projeto fictício de conversor de temperatura para a aula de GitHub",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
